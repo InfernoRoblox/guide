@@ -26,7 +26,7 @@ If you don't know JavaScript but would like to learn about it, here are a few li
 * [MDN's JavaScript guide and full documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Google, your best friend](https://google.com)
 
-Take your pick, learn some JavaScript, and once you feel like you're confident enough to make a bot, come back and get started!
+Take your pick, learn some JavaScript, and once you feel like you're confident enough to make a bot, come back and get started! and Yes go learn
 
 <a href="https://www.netlify.com">
 	<img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
